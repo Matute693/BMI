@@ -1,0 +1,37 @@
+.fondoItem{
+    background-color: #546454;
+    height: 130px;
+    border-radius: 20px;
+    color: white;
+}
+
+
+.fas {
+    font-size: 35px;
+    font-weight: bold;
+}
+.fw-400 {
+    font-size: 32px;
+}
+.pesoAltura {
+    font-size: 25px;
+}
+
+
+.form-range {
+    width: 90%;
+}
+input[type=range]::-webkit-slider-thumb {
+    background: #333 !important; 
+}
+.fa-minus-circle, .fa-plus-circle {
+    font-size: 25px;
+    color: #a0aaa2;
+    cursor: pointer;
+}
+.fw-bolder {
+    font-weight: 800;
+}
+.sexoDesactivo {
+background-color: rgb(65, 110, 56);
+}

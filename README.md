@@ -9,4 +9,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 
 ## URL Deploy
 
-https://calculador-peso-corporal.netlify.app/
+https://calculador-peso-corporal.netlify.app
